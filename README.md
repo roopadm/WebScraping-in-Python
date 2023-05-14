@@ -10,11 +10,6 @@
 
 <p align="center"> <img src="https://github.com/roopadm/WebScraping-in-Python/blob/main/images/download.png" alt="Projectimage" width="80%" height="10%"/> </p>
 
-Accessing tags
-
-HTML class tag is an attribute used to group elements based on their common functionality or characteristics.
-Our HTML document :
-
 
 <a href="https://www.geeksforgeeks.org/what-is-web-scraping-and-how-to-use-it/" >Web scraping </a> is the process of automatically extracting and parsing data fom websites using a program or tool.Scraping often involves accessing a website's HTML code, parsing and extracting the required information.Web scarping purposes are not just limited to research, infact they are also widely used in business intelligence, building machine learning applications database and also to monitor website changes.
 Though web scarping can also be done manually,but using tool or library are considered more efficient.Popular web scarping tools and libraries are Beautiful Soup,Seleniu,Scrapy and Puppeteer.
